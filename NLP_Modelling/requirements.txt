@@ -1,0 +1,8 @@
+The following packages are required
+- tensorflow (1.4.0)
+- keras
+- nltk
+- gensim
+- numpy
+- hdf5
+- jupyter
